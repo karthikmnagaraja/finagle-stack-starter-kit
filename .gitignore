@@ -1,0 +1,12 @@
+*.swp
+target
+lib_managed
+src_managed
+project/boot/
+dist
+*.log
+project/plugins/project
+*.gem
+.NERDTreeBookmarks
+sbt-launch.jar
+*.idea*
